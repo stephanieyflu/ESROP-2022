@@ -133,6 +133,8 @@ In order to do so, follow the steps below.
 ```
 # Creating the model's directory
 mkdir models
+mkdir input_files # Stephanie's extensions
+mkdir output_files # Stephanie's extensions
 
 # Downloading the NER model
 wget https://ndownloader.figshare.com/files/28278432?private_link=04259fac69da301680c2 -O NER_SicknessMiner.zip
